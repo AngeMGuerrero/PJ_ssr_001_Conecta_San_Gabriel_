@@ -7,10 +7,10 @@ Conocer el grado de conocimiento que tienen las personas respecto a los métodos
 Piloto de cuatro (4) meses. Incluye preparación, articulación, convocatoria, ocho jornadas, seguimiento y cierre.
 
 ## Equipo y responsabilidades
-Angelica María Guerrero González	Responsable de coordinación institucional con la Alcaldía, el Hospital y las instituciones educativas.
-Laura Marcela Ortiz Nocove	Responsable de campañas informativas: logística, material y ejecución de las jornadas.
-Daniel Ricardo Rivera Reyes	Responsable de orientación a jóvenes y canales digitales de atención.
-Daniel Vargas García	Responsable de la gestión ante el Gobierno Nacional y del seguimiento en GitHub (Issues, Project e Insights).
+Angelica María Guerrero González: Coordinadora de Proyecto: Responsable de coordinación institucional con la Alcaldía, el Hospital y las instituciones educativas y toma de decisiones.
+Laura Marcela Ortiz Nocove Operación territorial:	Responsable de campañas informativas: logística, material y ejecución de las jornadas.
+Daniel Ricardo Rivera Reyes: Analista: Responsable de orientación a jóvenes y canales digitales de atención.
+Daniel Vargas García	Seguimiento y documentación: Responsable de la gestión ante el Gobierno Nacional y del seguimiento en GitHub (Issues, Project e Insights).
 
 ## Organización de documentos
 - `01_formulacion/`: ficha del proyecto y documentos de alcance.
