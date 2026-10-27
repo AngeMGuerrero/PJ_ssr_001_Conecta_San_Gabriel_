@@ -1,4 +1,4 @@
-# PJ_Salud_Sexual_y_Reproductiva_001_San_Gabriel_
+# PJ_ssr_001_Conecta_San_Gabriel_
 
 ## Propósito
 Conocer el grado de conocimiento que tienen las personas respecto a los métodos anticonceptivos, la prevención de infecciones de transmisión sexual (ITS/VIH) y los derechos reproductivos, estableciendo un contraste entre lo que las personas perciben que saben y su conocimiento efectivo.  
