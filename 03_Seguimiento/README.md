@@ -27,3 +27,8 @@ Esta carpeta reúne la línea base de programación, las evidencias exportadas d
 - [Formulación del proyecto](../01_Formulacion/)
 
 Las exportaciones conservan los valores presentes en la vista al momento de capturarlas y no sustituyen la consulta del estado vigente del proyecto.
+
+## Matriz de coherencia de sedes
+
+- **Vigente y aprobada:** [Matriz de coherencia de sedes ACT-04, ACT-06 y ACT-07 v1.0](PJssr001_MatrizCoherenciaSedes_ACT04_ACT06_ACT07_261104_v1.0.pdf). Contrasta las ocho jornadas y distingue sedes de referencia, nombres específicos y confirmaciones pendientes; no certifica reservas ni ejecución.
+- **Antecedente:** [Matriz preliminar v0.1](Historico/PJssr001_MatrizCoherenciaSedes_ACT04_ACT06_ACT07_261104_v0.1.md), conservada para trazabilidad de elaboración.
