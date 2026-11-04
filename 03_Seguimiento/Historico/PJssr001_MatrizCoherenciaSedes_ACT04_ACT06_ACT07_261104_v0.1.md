@@ -32,8 +32,8 @@ Contrastar las referencias de sedes en la planificación logística (ACT-04) y l
 > ACT-04 recoge la planeación logística y distingue las sedes propuestas, las pendientes de confirmación y la prerreserva de J07. Los documentos de ACT-06 y ACT-07 emplean referencias de lugar más específicas para desarrollar el escenario académico de resultados, pero no constituyen prueba de reserva ni de disponibilidad efectiva. La matriz permite conciliar las referencias y deja visibles las verificaciones que no están acreditadas documentalmente.
 
 ## Fuentes documentales
-- [ACT-04 · Plan logístico, fichas y matriz de confirmaciones](../02_Evidencias/ACT-04/)
-- [ACT-06 · Registro consolidado e informe urbano](../02_Evidencias/ACT-06/)
-- [ACT-07 · Informe de resultados v1.1 y registro rural](../02_Evidencias/ACT-07/)
+- [ACT-04 · Plan logístico, fichas y matriz de confirmaciones](../../02_Evidencias/ACT-04/)
+- [ACT-06 · Registro consolidado e informe urbano](../../02_Evidencias/ACT-06/)
+- [ACT-07 · Informe de resultados v1.1 y registro rural](../../02_Evidencias/ACT-07/)
 
 **Pendiente para aprobación:** cotejar esta matriz con los PDF v1.0 publicados en GitHub de ACT-04 y ACT-06; confirmar si existen actas posteriores de disponibilidad de sedes. No modificar documentos aprobados únicamente para ocultar diferencias entre planificación y simulación.
