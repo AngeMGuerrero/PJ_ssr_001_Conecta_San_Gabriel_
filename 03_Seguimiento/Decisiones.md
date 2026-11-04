@@ -1,6 +1,6 @@
 # Registro de decisiones | PJ-SSR-001 Conecta San Gabriel
 
-Este archivo registra decisiones generales del proyecto. Las decisiones de gestión DG-01 y DG-02 referidas en ACT-13 se incorporarán una vez contrastado su contenido exacto con la bitácora aprobada; no se reproducen aquí sin verificación.
+Este archivo registra decisiones generales del proyecto y decisiones de gestión documentadas en ACT-13. Las fechas, responsables y estados se reproducen conforme a la bitácora ACT-13 v1.4; las verificaciones pendientes se mantienen explícitas.
 
 ## DEC-01 | Organización inicial del repositorio
 - Responsable de coordinación: Angélica María Guerrero González
@@ -8,6 +8,26 @@ Este archivo registra decisiones generales del proyecto. Las decisiones de gesti
 - Criterio: solo se publicarán documentos y evidencias sin datos personales.
 - Estado: decisión de configuración registrada.
 - Relación: ACT-01 y ACT-03.
+
+## DG-01 | Reapertura del Issue #4 y conservación de estado
+- Tipo: decisión de gestión.
+- Actividad relacionada: ACT-04.
+- Responsable funcional: Laura Marcela Ortiz Nocove.
+- Decisión y tratamiento: reabrir el Issue #4 y conservar el estado `Done`.
+- Incidencia vinculada: INC-01.
+- Fecha de ejecución verificada: 04/11/2026.
+- Estado: ejecutada.
+- Fuente: bitácora ACT-13 v1.4, hoja «Registros relacionados», registro DG-01.
+
+## DG-02 | Responsabilidad funcional y apoyos de ACT-10
+- Tipo: decisión de gestión.
+- Actividad relacionada: ACT-10.
+- Responsable funcional: Angélica María Guerrero González.
+- Apoyos registrados: Daniel Vargas García, Daniel Ricardo Rivera Reyes y Laura Marcela Ortiz Nocove.
+- Decisión y tratamiento: conservar las asignaciones y verificar posteriormente su correspondencia.
+- Fecha de decisión: no acreditada en la bitácora.
+- Estado: decisión registrada; correspondencia de asignaciones pendiente de verificar.
+- Fuente: bitácora ACT-13 v1.4, hoja «Registros relacionados», registro DG-02.
 
 ## Referencias de seguimiento
 - [Issue ACT-13: incidencias y decisiones de gestión](https://github.com/AngeMGuerrero/PJ_ssr_001_Conecta_San_Gabriel_/issues/13)
