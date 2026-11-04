@@ -2,7 +2,7 @@
 
 **Proyecto:** PJ-SSR-001 · Conecta San Gabriel  
 **Fecha de referencia:** 04/11/2026  
-**Estado:** nota de control en revisión; no sustituye el Registro Descriptivo ACT-12 v1.0.
+**Estado histórico:** nota preliminar archivada. La conciliación posterior se documentó en ACT-12 v1.2, aprobada y pendiente de publicación en GitHub. Las acciones propuestas abajo corresponden al momento de elaboración de esta nota.
 
 ## Hallazgo
 El Registro Descriptivo de Seguimiento Semanal ACT-12 v1.0 presenta el balance **3 Done, 9 In Progress y 2 Todo**, mientras que la exportación CSV identificada como corte del 04/11/2026 contiene **12 Done, 2 In Progress y 0 Todo** sobre las 14 actividades. Ambas distribuciones suman 14, pero no corresponden al mismo estado del tablero. Se requiere aclarar si representan momentos de captura distintos.
@@ -24,7 +24,7 @@ En el CSV, **ACT-12 y ACT-13** permanecen `In Progress`; ACT-01 a ACT-11 y ACT-1
 4. Actualizar los enlaces al PDF vigente solo después de publicar y verificar v1.1. No modificar estados del tablero ni cerrar el Issue #12 por esta conciliación.
 
 ## Fuentes
-- [Exportación Seguimiento semanal · CSV 04/11/2026](PJssr001_Exportacion_SeguimientoSemanal_20261104.csv)
-- [Registro descriptivo ACT-12 v1.0 · PDF](../02_Evidencias/ACT-12/PJssr001_ACT-12_RegistroSeguimiento_261104_v1.0.pdf)
+- [Exportación Seguimiento semanal · CSV 04/11/2026](../PJssr001_Exportacion_SeguimientoSemanal_20261104.csv)
+- [Registro descriptivo ACT-12 v1.0 · PDF](../../02_Evidencias/ACT-12/Historico/PJssr001_ACT-12_RegistroSeguimiento_261104_v1.0.pdf)
 - [Vista Seguimiento semanal](https://github.com/users/AngeMGuerrero/projects/1/views/2)
 - [Issue #12](https://github.com/AngeMGuerrero/PJ_ssr_001_Conecta_San_Gabriel_/issues/12)
