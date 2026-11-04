@@ -32,3 +32,7 @@ Las exportaciones conservan los valores presentes en la vista al momento de capt
 
 - **Vigente y aprobada:** [Matriz de coherencia de sedes ACT-04, ACT-06 y ACT-07 v1.0](PJssr001_MatrizCoherenciaSedes_ACT04_ACT06_ACT07_261104_v1.0.pdf). Contrasta las ocho jornadas y distingue sedes de referencia, nombres específicos y confirmaciones pendientes; no certifica reservas ni ejecución.
 - **Antecedente:** [Matriz preliminar v0.1](Historico/PJssr001_MatrizCoherenciaSedes_ACT04_ACT06_ACT07_261104_v0.1.md), conservada para trazabilidad de elaboración.
+
+## Conciliación histórica de ACT-12
+
+- [Nota preliminar v0.1 archivada](Historico/PJssr001_ConciliacionEstados_ACT12_261104_v0.1.md). La observación se atendió en el [Registro Descriptivo ACT-12 v1.2 vigente](../02_Evidencias/ACT-12/PJssr001_ACT-12_RegistroSeguimiento_261104_v1.2.pdf), que distingue el balance inicial 3/9/2 del corte CSV 12/2/0.
