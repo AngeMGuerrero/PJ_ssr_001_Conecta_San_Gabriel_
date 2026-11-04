@@ -24,12 +24,12 @@ Este archivo registra decisiones generales del proyecto y decisiones de gestión
 - Actividad relacionada: ACT-10.
 - Responsable funcional: Angélica María Guerrero González.
 - Apoyos registrados: Daniel Vargas García, Daniel Ricardo Rivera Reyes y Laura Marcela Ortiz Nocove.
-- Decisión y tratamiento: conservar las asignaciones y verificar posteriormente su correspondencia.
+- Decisión y tratamiento: conservar la identificación de coordinación y apoyos; correspondencia de los cuatro nombres verificada frente al apartado «Responsable funcional» del Issue #10. Esta coincidencia documental no equivale a asignación individual de cuentas en GitHub.
 - Fecha de decisión: no acreditada en la bitácora.
-- Estado: decisión registrada; correspondencia de asignaciones pendiente de verificar.
-- Fuente: bitácora ACT-13 v1.4, hoja «Registros relacionados», registro DG-02.
+- Estado: decisión registrada; correspondencia de nombres verificada en el Issue #10. En el campo de personas asignadas de GitHub figuran tres cuentas (Angélica María Guerrero, Laura Marcela Ortiz y Daniel Vargas); no figura una cuarta cuenta para Daniel Ricardo Rivera Reyes. No se modificaron las asignaciones.
+- Fuente: bitácora ACT-13 v1.4, hoja «Registros relacionados», registro DG-02; [Issue #10](https://github.com/AngeMGuerrero/PJ_ssr_001_Conecta_San_Gabriel_/issues/10), apartado «Responsable funcional» y campo de personas asignadas.
 
 ## Referencias de seguimiento
 - [Issue ACT-13: incidencias y decisiones de gestión](https://github.com/AngeMGuerrero/PJ_ssr_001_Conecta_San_Gabriel_/issues/13)
 - [Bitácora de incidencias ACT-13 v1.4](../02_Evidencias/ACT-13/PJssr001_ACT-13_BitacoraIncidencias_261104_v1.4.xlsx)
-- [Informe descriptivo ACT-13 v1.0](../02_Evidencias/ACT-13/PJssr001_ACT-13_InformeIncidencias_261104_v1.0.pdf)
+- [Informe descriptivo ACT-13 v1.1 vigente](../02_Evidencias/ACT-13/PJssr001_ACT-13_InformeIncidencias_261104_v1.1.pdf)
