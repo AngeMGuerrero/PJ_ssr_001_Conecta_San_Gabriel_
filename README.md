@@ -23,6 +23,9 @@ La programación del escenario comprende articulación y preparación desde octu
 ## Nomenclatura y control de versiones
 Los archivos siguen el esquema `PJssr001_[ACT-XX]_[TipoDocumento]_[Fecha]_[Versión].[ext]`. Los borradores `v0.x` se conservan en el espacio de trabajo del equipo; `v1.0` identifica la primera versión aprobada; `v1.1` y posteriores identifican cambios controlados. En GitHub se publican las evidencias aprobadas en PDF y se conserva trazabilidad mediante el historial de commits. La versión interna debe coincidir con el nombre del archivo.
 
+## Convención del código de proyecto
+El código formal del proyecto se presenta como **PJ-SSR-001** en portadas, títulos y texto de los documentos. El prefijo técnico **PJssr001** se utiliza en los nombres de archivo para mantener una nomenclatura uniforme y compatible con las rutas del repositorio. Ambas formas identifican el mismo proyecto; la diferencia no indica proyectos ni versiones distintas.
+
 ## Gestión y verificación
 Cada actividad tiene un registro de gestión y seguimiento. La finalización y el cumplimiento requieren evidencia y verificación; un estado de ejecución no equivale por sí solo a cumplimiento verificado.
 
